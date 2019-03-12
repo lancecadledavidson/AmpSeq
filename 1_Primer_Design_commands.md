@@ -1,4 +1,4 @@
-Changing directory to Primer Desing
+Changing directory to Primer Design
 ```bash
 cd AmpSeq-Pre/1_Primer_Design/
 ```
