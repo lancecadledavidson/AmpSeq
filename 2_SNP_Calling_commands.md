@@ -14,7 +14,7 @@ Chaning directory to Indexed_Genome in order to pre-process reference genome inf
 ```bash
 cd Indexed_Genome
 ```
-Concatenating fasta files with sequences of chromosmes 9, 12, 14, 14 and 19 of grapevine
+Concatenating fasta files with sequences of chromosomes 9, 12, 13, 14 and 19 of grapevine
 ```bash
 singularity exec ../../../AmpSeq.sig cat *.gz | gzip -d > grapevine_12Xv2_Chr9_12_13_14_19.fa
 ```
